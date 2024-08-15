@@ -1,6 +1,6 @@
 # LOCKDOWN Protocol Custom Music and Funny Videos Mod
 
-**Version:** 1.0.0  
+**Version:** 1.5  
 **Author:** Ryudious
 
 ## Overview

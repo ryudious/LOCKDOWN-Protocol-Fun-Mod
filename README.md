@@ -5,7 +5,7 @@
 
 ## Overview
 
-This mod enhances your in-game experience by replacing all original music tracks and tutorial videos with iconic songs and funny videos. Enjoy a new level of immersion with music you love and share laughs with friends in the lobby area as you prepare for your next adventure.
+This mod enhances your in-game experience by replacing all original music tracks and tutorial videos with iconic songs and funny videos. Enjoy a new level of immersion with music you love and share laughs with friends in the lobby area as you prepare for your next adventure.  Since some of my mod relies on hardcoded specific paths, Go to releases and if your game is installed on your D: Drive download THAT version!
 
 ## Features
 
